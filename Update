@@ -1,12 +1,8 @@
 {
     "versionCode": 10,
-    "message_lines": [
-        "Complete an ad to access the app!",
-        "Click on any server button below to watch an ad.",
-        "After watching the ad, you will get access to the app."
-    ],
-    "server1_url": "https://smallshorts.com/Filmrise",
-    "server2_url": "https://example.com/server2",
-    "server3_url": "https://example.com/server3",
-    "server4_url": "https://example.com/server4"
+    "message_lines": ["Complete an ad to access the app!"],
+    "server1_url": "https://smallshorts.com/Filmrise?callback=yourapp://verify?status=success",
+    "server2_url": "https://smallshorts.com/Filmrise?callback=yourapp://verify?status=success",
+    "server3_url": "https://smallshorts.com/Filmrise?callback=yourapp://verify?status=success",
+    "server4_url": "https://smallshorts.com/Filmrise?callback=yourapp://verify?status=success"
 }
