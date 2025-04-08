@@ -1,15 +1,12 @@
 {
-    "version": "1.20",
+    "versionCode": 12,
     "message_lines": [
-     
-"● Premium Unlocked",
-"● Ads Remove",
-"● Removed Debug info",
-"● Optimised & Cleaned",
-
+        "Complete an ad to access the app!",
+        "Click on any server button below to watch an ad.",
+        "After watching the ad, you will get access to the app."
     ],
-    "telegram_url": "https://t.me/your_telegram_group",
-    "whatsapp_url": "https://chat.whatsapp.com/your_whatsapp_group",
-    "get_pin_url": "https://example.com/get_pin",
-    "correct_pin": "1234"
+    "server1_url": "https://example.com/server1",
+    "server2_url": "https://example.com/server2",
+    "server3_url": "https://example.com/server3",
+    "server4_url": "https://example.com/server4"
 }
